@@ -40,22 +40,22 @@ You should be super enthusiatic about Blockchain, have 15 to 20 hours a week and
 
 ## Recommended Books to Read:
 
- - [Mastering Ethereum: Building Smart Contracts and DApps](https://github.com/ethereumbook/ethereumbook).  
- - [Ethereum Development with Go](https://goethereumbook.org/en/).  
+ - [Mastering Ethereum: Building Smart Contracts and DApps](https://github.com/ethereumbook/ethereumbook)  
+ - [Ethereum Development with Go](https://goethereumbook.org/en/)  
  - [Debt - Updated and Expanded: The First 5,000 Years.](https://www.amazon.com/gp/product/1612194192/ref=nosim/?tag=mitopencourse-20)
- - [Programming Bitcoin: Learn How to Program Bitcoin from Scratch](https://www.amazon.com/Programming-Bitcoin-Learn-Program-Scratch/dp/1492031496).   
+ - [Programming Bitcoin: Learn How to Program Bitcoin from Scratch](https://www.amazon.com/Programming-Bitcoin-Learn-Program-Scratch/dp/1492031496)   
 
 ## Recommended Courses to Take for Deeper Understanding:
 
- - [Cryptography I](https://www.coursera.org/learn/crypto).   
+ - [Cryptography I](https://www.coursera.org/learn/crypto)    
  - [Cryptography II](https://www.coursera.org/learn/crypto2)  
  - [Game Theory I](https://www.coursera.org/learn/game-theory-1)  
  - [Game Theory II: Advanced Applications](https://www.coursera.org/learn/game-theory-2).    
  - [ECO11: Principles of Economics I](https://saifedean.com/product/buy-eco11-principles/).    
  - [ECO12: Principles of Economics II](https://saifedean.com/product/buyeco12-principles-of-economics-ii/).    
-## Part 1 -Introduction to Blockchain: 
+# Part 1 -Introduction to Blockchain: 
 
-### #1 Week:
+## #1 Week:
 #### Objectives: 
 
  - Understanding the history of money.  
@@ -78,6 +78,9 @@ You should be super enthusiatic about Blockchain, have 15 to 20 hours a week and
 [Bitcoin's Academic Pedigree](https://queue.acm.org/detail.cfm?id=3136559)  
 [Making Sense of Cryptoeconomics](https://www.coindesk.com/making-sense-cryptoeconomics)  
 [The Economic Limits of Bitcoin and the Blockchain](https://faculty.chicagobooth.edu/eric.budish/research/Economic-Limits-Bitcoin-Blockchain.pdf)  
+[Blockchain Identity for Developing Countries](https://medium.com/@robertgreenfieldiv/blockchain-identity-for-developing-countries-80ce6077ddc0)  
+[9 Blockchain for Social Impact Predictions for 2020](https://medium.com/@robertgreenfieldiv/9-blockchain-for-social-impact-predictions-for-2020-7e10fbffe0c1)  
+[A History of Blockchain Governance](https://medium.com/@robertgreenfieldiv/a-history-of-blockchain-governance-5b807052e720)  
 
 #### Videos/Leactures: 
 [Can Bitcoin Replace Government-Issued Money? A Debate](https://www.youtube.com/watch?v=MN4klUUx8fM)  
@@ -88,3 +91,31 @@ You should be super enthusiatic about Blockchain, have 15 to 20 hours a week and
 
  - Write an article about the most exciting thing you've learned and publish it on Medium (+1 Get a feedback from an interesting person in the space)   
  - Build a POC of Blockchain (try to build it alone after some hours if it didn't work try [1](https://medium.com/@mycoralhealth/code-your-own-blockchain-in-less-than-200-lines-of-go-e296282bcffc), [2](http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/) or [3](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46))
+
+## #2 Week:
+#### Objectives: 
+
+ - Have an understanding of the basics of Bitcoin.  
+ - Understand the basics of Blockchain Economics  and explore the minimalist and maximalist opinions.
+ - Understand the some of the Technical, Financial and policy challenges in the space.  
+
+## #3 Week:
+#### Objectives: 
+
+ - Get an introduction to Ethereum, Smart Contracts and DApps.
+ - Payments, Primary Markets, ICOs, Venture Capital and Post Trade.
+ -	Have an understanding of Payments Engineering.
+
+## #4 Week:
+#### Objectives: 
+
+ - Learn how to use Git and Github, Find an exciting project for you to explore and submit a Pull-Request.    
+ - Get an introduction to the open-source communities.
+ - Understand Permissioned Blockchain Systems
+ - Explore the different Blockchain use-cases
+
+# Part 2 -Protocols Engineering and Design: 
+
+# Part 3 -Decentralized Finance (DeFi): 
+
+# Part 4 -Advanced: 
