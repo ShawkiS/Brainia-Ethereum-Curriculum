@@ -123,7 +123,7 @@ You should be super enthusiatic about Blockchain, have 15 to 20 hours a week and
  - Explore Ethereum Core Protocol
  - Explore other Consensus options and build a POC of POW 
  - Understand how a wallet works and build a simple one
- - 
+
 ## #2 Week:
 #### Objectives: 
  - Networking and Messaging 101
