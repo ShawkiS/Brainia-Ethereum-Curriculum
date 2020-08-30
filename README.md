@@ -10,7 +10,7 @@ Sponsors:
 Instructors:  
 Students Number: 10   
 
-What is Brainia Ethereum Full-Stack Engineer Course?   
+What is Brainia ([DMZ](http://dmz.ryerson.ca/) Startup building a new framework for online learning) Ethereum Full-Stack Engineer Course?   
 
 Learn the fundamentals of the blockchain, Protocols Engineering, Ethereum 2.0, DeFi and Privacy from First Principles through building a deep-understanding of the Engineering and Research of Blockchain and Ethereum!
 
