@@ -37,15 +37,31 @@ Learn the fundamentals of the blockchain, Protocols Engineering, Ethereum 2.0, D
 You should be super enthusiatic about Blockchain, have 15 to 20 hours a week and have some coding experience!
 
 ## Curriculum:
+
+## Recommended Books to Read:
+
+ - [Mastering Ethereum: Building Smart Contracts and DApps](https://github.com/ethereumbook/ethereumbook).  
+ - [Ethereum Development with Go](https://goethereumbook.org/en/).  
+ - [Debt - Updated and Expanded: The First 5,000 Years.](https://www.amazon.com/gp/product/1612194192/ref=nosim/?tag=mitopencourse-20)
+ - [Programming Bitcoin: Learn How to Program Bitcoin from Scratch](https://www.amazon.com/Programming-Bitcoin-Learn-Program-Scratch/dp/1492031496).   
+
+## Recommended Courses to Take for Deeper Understanding:
+
+ - [Cryptography I](https://www.coursera.org/learn/crypto).   
+ - [Cryptography II](https://www.coursera.org/learn/crypto2)  
+ - [Game Theory I](https://www.coursera.org/learn/game-theory-1)  
+ - [Game Theory II: Advanced Applications](https://www.coursera.org/learn/game-theory-2).    
+ - [ECO11: Principles of Economics I](https://saifedean.com/product/buy-eco11-principles/).    
+ - [ECO12: Principles of Economics II](https://saifedean.com/product/buyeco12-principles-of-economics-ii/).    
 ## Part 1 -Introduction to Blockchain: 
 
 ### #1 Week:
 #### Objectives: 
 
- - Understanding the history of money.
- - Introduction to modern cryptograpy history. 
- - Build a simple POC of Blockchain.
- - Introduction to Cryptoeconomics.
+ - Understanding the history of money.  
+ - Introduction to modern cryptograpy history.   
+ - Build a simple POC of Blockchain.  
+ - Introduction to Cryptoeconomics.  
 
 #### Sessions: 
 #### Readings:
@@ -55,7 +71,7 @@ You should be super enthusiatic about Blockchain, have 15 to 20 hours a week and
 [Before Bitcoin Pt.1 — 70s “Public Key Saga”](https://medium.com/@pet3rpan/history-of-things-before-bitcoin-cryptocurrency-part-one-e199f02ca380)  
 [Before Bitcoin Pt.2 — 80s “The Origins of Decentralization”](https://medium.com/@pet3rpan/history-of-things-before-bitcoin-cryptocurrency-part-two-94c4576005)  
 [Before Bitcoin Pt.3 — 90s “Cryptowars”](https://medium.com/@pet3rpan/before-bitcoin-pt-3-90s-cryptowars-e857915fab82)  
-[A Brief History of Ledgers](https://medium.com/unraveling-the-ouroboros/a-brief-history-of-ledgers-b6ab84a7ff41)  
+[A Brief History of Ledgers](https://medium.com/unraveling-the-ouroboros/a-brief-history-of-ledgers-b6ab84a7ff41)   
 [The Byzantine Generals Problem](https://dl.acm.org/doi/10.1145/357172.357176)  
 [The blockchain catalyst for change](https://voxeu.org/article/blockchain-catalyst-change)
 [A (Short) Guide to Blockchain Consensus Protocols](https://www.coindesk.com/short-guide-blockchain-consensus-protocols)  
@@ -71,4 +87,4 @@ You should be super enthusiatic about Blockchain, have 15 to 20 hours a week and
 ### Assignments:
 
  - Write an article about the most exciting thing you've learned and publish it on Medium (+1 Get a feedback from an interesting person in the space)   
- - Build a POC of Blockchain (try to build it alone after some hours if it didn't work try [1](https://medium.com/@mycoralhealth/code-your-own-blockchain-in-less-than-200-lines-of-go-e296282bcffc), [2](http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/) or [3](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46))  
+ - Build a POC of Blockchain (try to build it alone after some hours if it didn't work try [1](https://medium.com/@mycoralhealth/code-your-own-blockchain-in-less-than-200-lines-of-go-e296282bcffc), [2](http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/) or [3](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46))
