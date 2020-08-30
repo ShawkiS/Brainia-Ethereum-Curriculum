@@ -139,6 +139,18 @@ You should be super enthusiatic about Blockchain, have 15 to 20 hours a week and
  - Get an introduction to Ethereum 2.0
 
 # Part 3 -Decentralized Finance (DeFi): 
+## #1 Week:
+#### Objectives: 
+ 
+## #2 Week:
+#### Objectives: 
+
+## #3 Week:
+#### Objectives: 
+
+## #4 Week:
+#### Objectives: 
+
 
 # Part 4 -Advanced: 
 
