@@ -1,12 +1,12 @@
 
 # Brainia Ethereum Curriculum
-What is Brainia Ethereum Full-Stack Engineer Course?
-Duration: 16-Weeks
-Curriculum-Designer: Shawki Sukkar
-Partners: The Blockchain Acceleration Foundation and ConsenSys Academy.
-Mentors: 
-Sponsors:
-Instructors:
+What is Brainia Ethereum Full-Stack Engineer Course?  
+Duration: 16-Weeks  
+Curriculum-Designer: Shawki Sukkar  
+Partners: The Blockchain Acceleration Foundation and ConsenSys Academy.  
+Mentors:   
+Sponsors:  
+Instructors:  
 
 Learn the fundamentals of the blockchain, Protocols Engineering, Ethereum 2.0, DeFi and Privacy from First Principles through building a deep-understanding of the Engineering and Research of Blockchain and Ethereum!
 
