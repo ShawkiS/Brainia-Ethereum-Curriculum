@@ -114,8 +114,43 @@ You should be super enthusiatic about Blockchain, have 15 to 20 hours a week and
  - Understand Permissioned Blockchain Systems
  - Explore the different Blockchain use-cases
 
-# Part 2 -Protocols Engineering and Design: 
+# Part 2 -Ethereum Protocol Engineering and Design:
+
+## #1 Week:
+#### Objectives: 
+
+ - Cryptography 101
+ - Explore Ethereum Core Protocol
+ - Explore other Consensus options and build a POC of POW 
+ - Understand how a wallet works and build a simple one
+ - 
+## #2 Week:
+#### Objectives: 
+ - Networking and Messaging 101
+ - Build a POC of P2P network sending Ethereum Transactions with a RPC
+
+## #3 Week:
+#### Objectives: 
+ - Smart Contracts and VM in depth
+ - Build  merkle tree (not sure about building a VM yet)
+
+## #4 Week:
+#### Objectives: 
+ - Get an introduction to Ethereum 2.0
 
 # Part 3 -Decentralized Finance (DeFi): 
 
 # Part 4 -Advanced: 
+
+## #1 Week:
+#### Objectives: 
+
+ - Explore IPFS and Filecoin 
+
+## #2 Week:
+#### Objectives: 
+
+ - Explore Privacy
+
+## #3 and 4 Week:
+Will be based on each students need for his project
