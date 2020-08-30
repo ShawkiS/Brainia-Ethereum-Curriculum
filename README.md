@@ -153,4 +153,4 @@ You should be super enthusiatic about Blockchain, have 15 to 20 hours a week and
  - Explore Privacy
 
 ## #3 and 4 Week:
-Will be based on each students need for his project
+Will be based on each students need for his/her project
