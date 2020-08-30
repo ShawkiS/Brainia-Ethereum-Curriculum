@@ -75,7 +75,7 @@ You should be super enthusiatic about Blockchain, have 15 to 20 hours a week and
 [The Byzantine Generals Problem](https://dl.acm.org/doi/10.1145/357172.357176)  
 [The blockchain catalyst for change](https://voxeu.org/article/blockchain-catalyst-change)
 [A (Short) Guide to Blockchain Consensus Protocols](https://www.coindesk.com/short-guide-blockchain-consensus-protocols)  
-[Bitcoin's Academic Pedigree](https://queue.acm.org/detail.cfm?id=3136559)
+[Bitcoin's Academic Pedigree](https://queue.acm.org/detail.cfm?id=3136559)  
 [Making Sense of Cryptoeconomics](https://www.coindesk.com/making-sense-cryptoeconomics)  
 [The Economic Limits of Bitcoin and the Blockchain](https://faculty.chicagobooth.edu/eric.budish/research/Economic-Limits-Bitcoin-Blockchain.pdf)  
 
