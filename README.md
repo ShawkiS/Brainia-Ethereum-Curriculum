@@ -103,7 +103,7 @@ Why Blockchain? By [Cameron Dennis](https://www.linkedin.com/in/cameron-dennis-b
  - Understand the some of the Technical, Financial and policy challenges in the space.  
 
 #### Sessions: 
-Blockchain and Social Impact and the Challenges facing the space by [Robert Greenfield](https://www.linkedin.com/in/robtg4/) (CEO of Emerging Impact)   
+Blockchain for Social Impact and the Challenges facing the space by [Robert Greenfield](https://www.linkedin.com/in/robtg4/) (CEO of Emerging Impact)   
 
 ## #3 Week:
 #### Objectives: 
