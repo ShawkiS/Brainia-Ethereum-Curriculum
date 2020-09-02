@@ -1,7 +1,7 @@
 
 # Brainia Ethereum Curriculum
 Version: 0.1  
-Starting Date: 1/9/2020
+Starting Date: 1/9/2020  
 Duration: 16-Weeks.  
 Curriculum-Designer: Shawki Sukkar.  
 Partners: The Blockchain Acceleration Foundation and ConsenSys Academy.  
@@ -64,6 +64,9 @@ You should be super enthusiatic about Blockchain, have 15 to 20 hours a week and
  - Introduction to Cryptoeconomics.  
 
 #### Sessions: 
+Program Intro By [Shawki Sukkar](https://www.linkedin.com/in/shawkisukkar/)  
+Why Blockchain? By [Cameron Dennis](https://www.linkedin.com/in/cameron-dennis-b93b25104/) (Founder & President of BAF)  
+
 #### Readings:
 [First Principles: The Building Blocks of True Knowledge](https://fs.blog/2018/04/first-principles/)  
 [If I'd Known What We Were Starting](https://www.linkedin.com/pulse/id-known-what-we-were-starting-ray-dillinger/)  
@@ -98,6 +101,9 @@ You should be super enthusiatic about Blockchain, have 15 to 20 hours a week and
  - Have an understanding of the basics of Bitcoin.  
  - Understand the basics of Blockchain Economics  and explore the minimalist and maximalist opinions.
  - Understand the some of the Technical, Financial and policy challenges in the space.  
+
+#### Sessions: 
+Blockchain and Social Impact by [Robert Greenfield](https://www.linkedin.com/in/robtg4/) (CEO of Emerging Impact)   
 
 ## #3 Week:
 #### Objectives: 
