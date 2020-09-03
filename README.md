@@ -3,11 +3,11 @@
 Version: 0.1  
 Starting Date: 1/9/2020  
 Duration: 16-Weeks.  
-Curriculum-Designer: Shawki Sukkar.  
+Curriculum-Designer and main instructor: Shawki Sukkar.  
 Partners: The Blockchain Acceleration Foundation and ConsenSys Academy.  
 Mentors:   
 Sponsors:  
-Instructors:  
+Visiting Instructors: Robert Greenfield, Yorke E. Rhodes, Alex Gladstein, Kevin Owocki Julien Bouteloup, Gregory Markou, Dev Pramoth, Omri Ross, Steven Waterhouse, Abdelhamid Bakhta
 Students Number: 10   
 
 What is Brainia ([DMZ](http://dmz.ryerson.ca/) Startup building a new framework for online learning) Ethereum Full-Stack Engineer Course?   
@@ -147,6 +147,9 @@ Blockchain for Social Impact and the Challenges facing the space by [Robert Gree
 # Part 3 -Decentralized Finance (DeFi): 
 ## #1 Week:
 #### Objectives: 
+
+#### Sessions: 
+Why Bitcoin matters for finacial freedom? By [Alex Gladstein](https://www.linkedin.com/in/alexgladstein/)
  
 ## #2 Week:
 #### Objectives: 
