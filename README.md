@@ -99,40 +99,40 @@ Why Blockchain? By [Cameron Dennis](https://www.linkedin.com/in/cameron-dennis-b
 #### Objectives: 
 
  - Have an understanding of the basics of Bitcoin.  
- - Understand the basics of Blockchain Economics  and explore the minimalist and maximalist opinions.
- - Understand the some of the Technical, Financial and policy challenges in the space.  
+ - Understand the basics of Blockchain Economics  and explore the minimalist and maximalist opinions.  
+ - Understand the some of the Technical, Financial and policy challenges in the space.    
 
 #### Sessions: 
 Blockchain for Social Impact and the Challenges facing the space by [Robert Greenfield](https://www.linkedin.com/in/robtg4/) (CEO of Emerging Impact)   
 
 #### Videos/Leactures: 
-[Cryptography - Finite fields/Elliptic Curves/ECDSA/Schnorr](https://www.youtube.com/watch?v=DcGm_4-ig1o) or [Foundational Math, ECDSA and Transactions](https://www.youtube.com/watch?v=e6voIwB-An4) (longer)
-[Bitcoin Peer-to-Peer Network](https://www.youtube.com/watch?v=eVerdR2hOMw)
-[Scripting & Transactions - Scripts (general & simple)](https://www.youtube.com/watch?v=nrYOMjVmqi8)
-[Scripting & Transactions - P2PKH/P2WPKH/P2SH/P2WSH](https://www.youtube.com/watch?v=nrYOMjVmqi8)
-[Wallets - Coin selection](https://www.youtube.com/watch?v=ZMzVIi1lgyw)
-[HD Wallets (BIP32) - James Chiang | Wallets](https://www.youtube.com/watch?v=OVvue2dXkJo)
-[Wallet Security, Key Management, HSM - Bryan Bishop | Wallets](https://www.youtube.com/watch?v=KLvWfUKoz9s)
-[Handling Re-orgs & Forks - Bryan Bishop | Chains](https://www.youtube.com/watch?v=wtTQ_1WyUoY)
-[Bitcoin Security Models with John Newbery](https://www.youtube.com/watch?v=6gGcS4N5Rg4)
+[Cryptography - Finite fields/Elliptic Curves/ECDSA/Schnorr](https://www.youtube.com/watch?v=DcGm_4-ig1o) or [Foundational Math, ECDSA and Transactions](https://www.youtube.com/watch?v=e6voIwB-An4) (longer)  
+[Bitcoin Peer-to-Peer Network](https://www.youtube.com/watch?v=eVerdR2hOMw)  
+[Scripting & Transactions - Scripts (general & simple)](https://www.youtube.com/watch?v=nrYOMjVmqi8)  
+[Scripting & Transactions - P2PKH/P2WPKH/P2SH/P2WSH](https://www.youtube.com/watch?v=nrYOMjVmqi8)  
+[Wallets - Coin selection](https://www.youtube.com/watch?v=ZMzVIi1lgyw)  
+[HD Wallets (BIP32) - James Chiang | Wallets](https://www.youtube.com/watch?v=OVvue2dXkJo)  
+[Wallet Security, Key Management, HSM - Bryan Bishop | Wallets](https://www.youtube.com/watch?v=KLvWfUKoz9s)  
+[Handling Re-orgs & Forks - Bryan Bishop | Chains](https://www.youtube.com/watch?v=wtTQ_1WyUoY)  
+[Bitcoin Security Models with John Newbery](https://www.youtube.com/watch?v=6gGcS4N5Rg4)  
 
 
 #### Readings:
-[The Incomplete History of Bitcoin Development](https://b10c.me/blog/004-the-incomplete-history-of-bitcoin-development/)
-[Why Bitcoin is Different](https://medium.com/@jimmysong/why-bitcoin-transaction-capacity-doesnt-really-matter-fddcc0c9f021) 
-[Why Bitcoin is Different than other Cryptocurrencies](https://medium.com/@jimmysong/why-bitcoin-is-different-than-other-cryptocurrencies-e16b17d48b94)
-[Why Bitcoin Works](https://medium.com/@jimmysong/why-bitcoin-works-fe32879a73f5)
-[A Gentle Introduction to Bitcoin Core Development](https://bitcointechtalk.com/a-gentle-introduction-to-bitcoin-core-development-fdc95eaee6b8)
-[Contributing to Bitcoin Core, a Personal Account](https://johnnewbery.com/post/contributing-to-bitcoin-core-a-personal-account/)
-[How to Review Pull Requests in Bitcoin Core](https://jonatack.github.io/articles/how-to-review-pull-requests-in-bitcoin-core)
-[Bitcoin’s Security Model: A Deep Dive](https://www.coindesk.com/bitcoins-security-model-deep-dive)
-[Scaling Bitcoin: A trip to the moon requires a rocket with multiple stages](https://www.reddit.com/r/Bitcoin/comments/438hx0/a_trip_to_the_moon_requires_a_rocket_with/)
+[The Incomplete History of Bitcoin Development](https://b10c.me/blog/004-the-incomplete-history-of-bitcoin-development/)  
+[Why Bitcoin is Different](https://medium.com/@jimmysong/why-bitcoin-transaction-capacity-doesnt-really-matter-fddcc0c9f021)   
+[Why Bitcoin is Different than other Cryptocurrencies](https://medium.com/@jimmysong/why-bitcoin-is-different-than-other-cryptocurrencies-e16b17d48b94)  
+[Why Bitcoin Works](https://medium.com/@jimmysong/why-bitcoin-works-fe32879a73f5)  
+[A Gentle Introduction to Bitcoin Core Development](https://bitcointechtalk.com/a-gentle-introduction-to-bitcoin-core-development-fdc95eaee6b8)  
+[Contributing to Bitcoin Core, a Personal Account](https://johnnewbery.com/post/contributing-to-bitcoin-core-a-personal-account/)  
+[How to Review Pull Requests in Bitcoin Core](https://jonatack.github.io/articles/how-to-review-pull-requests-in-bitcoin-core)  
+[Bitcoin’s Security Model: A Deep Dive](https://www.coindesk.com/bitcoins-security-model-deep-dive)  
+[Scaling Bitcoin: A trip to the moon requires a rocket with multiple stages](https://www.reddit.com/r/Bitcoin/comments/438hx0/a_trip_to_the_moon_requires_a_rocket_with/)  
 
 ### Assignments:
 
  - Build a POC of transactions from scratch including the ability to
-   sign transactions (build the cryptography from scratch)
- - Write a technical introduction article for Bitcoin or a topic that was so interesting for you (I mean so technical)
+   sign transactions (build the cryptography from scratch)  
+ - Write a technical introduction article for Bitcoin or a topic that was so interesting for you (I mean so technical)  
 
 ## #3 Week:
 #### Objectives: 
