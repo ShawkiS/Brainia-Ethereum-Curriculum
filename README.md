@@ -131,7 +131,7 @@ Blockchain for Social Impact and the Challenges facing the space by [Robert Gree
 ### Assignments:
 
  - Build a POC of transactions from scratch including the ability to
-   sign transactions (build the cryptography from scratch)  
+   sign a transaction and send it (build the cryptography from scratch)  
  - Write a technical introduction article for Bitcoin or a topic that was so interesting for you (I mean so technical)  
 
 ## #3 Week:
