@@ -104,7 +104,7 @@ Why Blockchain? By [Cameron Dennis](https://www.linkedin.com/in/cameron-dennis-b
 
 #### Sessions: 
 Blockchain for Social Impact and the Challenges facing the space by [Robert Greenfield](https://www.linkedin.com/in/robtg4/) (CEO of Emerging Impact)   
-The Future of Entreprise Blockchains by [John Wolpert](https://www.linkedin.com/in/johnwolpert/) 
+The Future of Entreprise Blockchains by [John Wolpert](https://www.linkedin.com/in/johnwolpert/) (Cofounder of Baseline Protocol and IBM Blockchain)
 
 #### Videos/Leactures: 
 [Cryptography - Finite fields/Elliptic Curves/ECDSA/Schnorr](https://www.youtube.com/watch?v=DcGm_4-ig1o) or [Foundational Math, ECDSA and Transactions](https://www.youtube.com/watch?v=e6voIwB-An4) (longer)  
