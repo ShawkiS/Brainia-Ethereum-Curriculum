@@ -76,7 +76,7 @@ Why Blockchain? By [Cameron Dennis](https://www.linkedin.com/in/cameron-dennis-b
 [Before Bitcoin Pt.3 — 90s “Cryptowars”](https://medium.com/@pet3rpan/before-bitcoin-pt-3-90s-cryptowars-e857915fab82)  
 [A Brief History of Ledgers](https://medium.com/unraveling-the-ouroboros/a-brief-history-of-ledgers-b6ab84a7ff41)   
 [The Byzantine Generals Problem](https://dl.acm.org/doi/10.1145/357172.357176)  
-[The blockchain catalyst for change](https://voxeu.org/article/blockchain-catalyst-change)
+[The blockchain catalyst for change](https://voxeu.org/article/blockchain-catalyst-change)  
 [A (Short) Guide to Blockchain Consensus Protocols](https://www.coindesk.com/short-guide-blockchain-consensus-protocols)  
 [Bitcoin's Academic Pedigree](https://queue.acm.org/detail.cfm?id=3136559)  
 [Making Sense of Cryptoeconomics](https://www.coindesk.com/making-sense-cryptoeconomics)  
