@@ -1,4 +1,5 @@
 
+
 # Brainia Ethereum Curriculum
 Version: 0.1  
 Starting Date: 1/9/2020  
@@ -138,9 +139,39 @@ The Future of Entreprise Blockchains by [John Wolpert](https://www.linkedin.com/
 ## #3 Week:
 #### Objectives: 
 
- - Get an introduction to Ethereum, Smart Contracts and DApps.
- - Payments, Primary Markets, ICOs, Venture Capital and Post Trade.
- -	Have an understanding of Payments Engineering.
+ - Get an introduction to Ethereum, Smart Contracts and DApps.  
+ - Payments Engineering, Primary Markets and ICOs.Venture Capital and Post Trade.  
+
+
+#### Sessions:   
+Solid Introduction to Ethereum by [Hudson Jameson](https://www.linkedin.com/in/hudsonjameson/) (Ethereum Core Developer)   
+
+#### Readings:
+[Smart Contracts: Building Blocks for Digital Markets](http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart_contracts_2.html)  
+[Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)  
+[Smart Contracts 12 Use Cases for Business & Beyond](https://digitalchamber.org/wp-content/uploads/2018/02/Smart-Contracts-12-Use-Cases-for-Business-and-Beyond_Chamber-of-Digital-Commerce.pdf)  
+[The Challenges of Building Ethereum Infrastructure](https://blog.lopp.net/the-challenges-of-building-ethereum-infrastructure/)  
+[There's No Good Reason to Trust Blockchain Technology](https://www.wired.com/story/theres-no-good-reason-to-trust-blockchain-technology/)  
+[Why China’s Payment Apps Give U.S. Bankers Nightmares](https://www.bloomberg.com/graphics/2018-payment-systems-china-usa/)  
+[M-PESA: how Kenya revolutionized mobile payments](https://mag.n26.com/m-pesa-how-kenya-revolutionized-mobile-payments-56786bc09ef)  
+[How ISO 20022 Represents Both a Challenge and an Opportunity for Southeast Asia’s Payments Landscape](https://www.aciworldwide.com/insights/expert-view/2020/april/how-iso-20022-represents-both-a-threat-and-an-opportunity-for-southeast-asias-payments-landscape)  
+[The Payment Industry is About to Be Struck by Lightning: Expert Take](https://cointelegraph.com/news/the-payment-industry-is-about-to-be-struck-by-lightning-expert-take)
+[How XRP Fits Into Ripple’s Payments Products Explained](https://www.coindesk.com/xrp-fits-ripples-payments-products-explained)  
+[Initial Coin Offering](https://www2.deloitte.com/content/dam/Deloitte/ru/Documents/risk/deloitte-blockchain-initial-coin-offering.pdf)   
+[The ultimate end-to-end tutorial to create and deploy a fully decentralized Dapp in ethereum](https://medium.com/ethereum-developers/the-ultimate-end-to-end-tutorial-to-create-and-deploy-a-fully-descentralized-dapp-in-ethereum-18f0cf6d7e0e)  
+
+
+#### Videos/Leactures: 
+[Decentralizing Everything with Ethereum's Vitalik Buterin | Disrupt SF 2017](https://www.youtube.com/watch?v=WSN5BaCzsbo)  
+[Parsimonious answers to difficult questions](https://www.youtube.com/watch?v=GOkSg0BuSdw)  
+[Payments Integration at Uber: A Case Study -- Gergely Orosz](https://www.youtube.com/watch?v=yooCE5B0SRA)  
+[Solidity for Dummies - Hudson Jameson](https://www.youtube.com/watch?v=kx_TgcWgbkw)  
+[Real-World Smart Contract Development Lessons](https://www.youtube.com/watch?v=pGh7UAiKTGo)  
+
+
+### Assignments:
+Coffee Supply Chain:  
+The user story is similar to any commonly used supply chain process. A Seller can add items to the inventory system stored in the blockchain. A Buyer can purchase such items from the inventory system. Additionally a Seller can mark an item as Shipped, and similarly a Buyer can mark an item as Received. (you don't have to build the front-end, but writing tests is required)  
 
 ## #4 Week:
 #### Objectives: 
