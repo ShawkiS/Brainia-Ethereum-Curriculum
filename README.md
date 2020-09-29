@@ -215,8 +215,8 @@ The Future of Enterprise Blockchain by Yorke E. Rhodes III
 [Proof of Stake Vitalik Buterin Technion Cyber and Computer Security Summer School](https://www.youtube.com/watch?v=NRwA-uHkQlU)   
 
 ### Assignments:
--Build a POC of Proof-of-Work that can mine your name too :)
--Use the funcitons that you built during the week to builda an Ethereum Wallet.
+-Build a POC of Proof-of-Work that can mine your name too :)  
+-Use the funcitons that you built during the week to builda an Ethereum Wallet.  
 ## #2 Week:
 #### Objectives: 
  - Networking and Messaging 101
