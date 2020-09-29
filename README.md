@@ -1,3 +1,5 @@
+
+
 # Brainia Ethereum Curriculum
 Version: 0.1  
 Starting Date: 1/9/2020  
@@ -106,23 +108,23 @@ Blockchain for Social Impact and the Challenges facing the space by [Robert Gree
 The Future of Entreprise Blockchains by [John Wolpert](https://www.linkedin.com/in/johnwolpert/) (Cofounder of Baseline Protocol and IBM Blockchain)
 
 #### Videos/Leactures: 
-[Cryptography - Finite fields/Elliptic Curves/ECDSA/Schnorr](https://www.youtube.com/watch?v=DcGm_4-ig1o) or [Foundational Math, ECDSA and Transactions](https://www.youtube.com/watch?v=e6voIwB-An4) (longer)  
+[Cryptography - Finite fields/Elliptic Curves/ECDSA/Schnorr](https://www.youtube.com/watch?v=DcGm_4-ig1o) or [Foundational Math, ECDSA and Transactions](https://www.youtube.com/watch?v=e6voIwB-An4) (longer)    
 [Bitcoin Peer-to-Peer Network](https://www.youtube.com/watch?v=eVerdR2hOMw)  
 [Scripting & Transactions - Scripts (general & simple)](https://www.youtube.com/watch?v=nrYOMjVmqi8)  
-[Scripting & Transactions - P2PKH/P2WPKH/P2SH/P2WSH](https://www.youtube.com/watch?v=nrYOMjVmqi8)  
-[Wallets - Coin selection](https://www.youtube.com/watch?v=ZMzVIi1lgyw)  
-[HD Wallets (BIP32) - James Chiang | Wallets](https://www.youtube.com/watch?v=OVvue2dXkJo)  
-[Wallet Security, Key Management, HSM - Bryan Bishop | Wallets](https://www.youtube.com/watch?v=KLvWfUKoz9s)  
-[Handling Re-orgs & Forks - Bryan Bishop | Chains](https://www.youtube.com/watch?v=wtTQ_1WyUoY)  
-[Bitcoin Security Models with John Newbery](https://www.youtube.com/watch?v=6gGcS4N5Rg4)  
+[Scripting & Transactions - P2PKH/P2WPKH/P2SH/P2WSH](https://www.youtube.com/watch?v=nrYOMjVmqi8)    
+[Wallets - Coin selection](https://www.youtube.com/watch?v=ZMzVIi1lgyw)    
+[HD Wallets (BIP32) - James Chiang | Wallets](https://www.youtube.com/watch?v=OVvue2dXkJo)    
+[Wallet Security, Key Management, HSM - Bryan Bishop | Wallets](https://www.youtube.com/watch?v=KLvWfUKoz9s)    
+[Handling Re-orgs & Forks - Bryan Bishop | Chains](https://www.youtube.com/watch?v=wtTQ_1WyUoY)    
+[Bitcoin Security Models with John Newbery](https://www.youtube.com/watch?v=6gGcS4N5Rg4)     
 
 
 #### Readings:
 [The Incomplete History of Bitcoin Development](https://b10c.me/blog/004-the-incomplete-history-of-bitcoin-development/)  
-[Why Bitcoin is Different](https://medium.com/@jimmysong/why-bitcoin-transaction-capacity-doesnt-really-matter-fddcc0c9f021)   
-[Why Bitcoin is Different than other Cryptocurrencies](https://medium.com/@jimmysong/why-bitcoin-is-different-than-other-cryptocurrencies-e16b17d48b94)  
-[Why Bitcoin Works](https://medium.com/@jimmysong/why-bitcoin-works-fe32879a73f5)  
-[A Gentle Introduction to Bitcoin Core Development](https://bitcointechtalk.com/a-gentle-introduction-to-bitcoin-core-development-fdc95eaee6b8)  
+[Why Bitcoin is Different](https://medium.com/@jimmysong/why-bitcoin-transaction-capacity-doesnt-really-matter-fddcc0c9f021)     
+[Why Bitcoin is Different than other Cryptocurrencies](https://medium.com/@jimmysong/why-bitcoin-is-different-than-other-cryptocurrencies-e16b17d48b94)    
+[Why Bitcoin Works](https://medium.com/@jimmysong/why-bitcoin-works-fe32879a73f5)    
+[A Gentle Introduction to Bitcoin Core Development](https://bitcointechtalk.com/a-gentle-introduction-to-bitcoin-core-development-fdc95eaee6b8)    
 [Contributing to Bitcoin Core, a Personal Account](https://johnnewbery.com/post/contributing-to-bitcoin-core-a-personal-account/)  
 [How to Review Pull Requests in Bitcoin Core](https://jonatack.github.io/articles/how-to-review-pull-requests-in-bitcoin-core)  
 [Bitcoin’s Security Model: A Deep Dive](https://www.coindesk.com/bitcoins-security-model-deep-dive)  
@@ -195,22 +197,22 @@ The Future of Enterprise Blockchain by Yorke E. Rhodes III
  - Understand how a wallet works and build a simple one
 
 #### Readings:
-[Ethereum Cryptography](https://www.oreilly.com/library/view/mastering-ethereum/9781491971932/ch04.html)
-[The Byzantine Generals Problem](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/The-Byzantine-Generals-Problem.pdf) 
-[Practical Byzantine Fault Tolerance](http://pmg.csail.mit.edu/papers/osdi99.pdf)
-[Flexible Byzantine Fault Tolerance](https://arxiv.org/pdf/1904.10067.pdf)
-[Stellar Consensus Protocol](https://www.stellar.org/papers/stellar-consensus-protocol)
-[BLS12-381 For The Rest Of Us](https://hackmd.io/@benjaminion/bls12-381)
-[A quick summary of blake2, a cryptographic hash function](https://gist.github.com/SooryaN/8d1b2c19bf0b971c11366b0680908d4b)
-[BLAKE2 — fast secure hashing](https://blake2.net/)
-[Go Public and Symmetric Key? The Best of Both Worlds: ECIES](https://medium.com/asecuritysite-when-bob-met-alice/go-public-and-symmetric-key-the-best-of-both-worlds-ecies-180f71eebf59)
-[ECIES Hybrid Encryption Scheme](https://cryptobook.nakov.com/asymmetric-key-ciphers/ecies-public-key-encryption)
+[Ethereum Cryptography](https://www.oreilly.com/library/view/mastering-ethereum/9781491971932/ch04.html)  
+[The Byzantine Generals Problem](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/The-Byzantine-Generals-Problem.pdf)   
+[Practical Byzantine Fault Tolerance](http://pmg.csail.mit.edu/papers/osdi99.pdf)  
+[Flexible Byzantine Fault Tolerance](https://arxiv.org/pdf/1904.10067.pdf)  
+[Stellar Consensus Protocol](https://www.stellar.org/papers/stellar-consensus-protocol)  
+[BLS12-381 For The Rest Of Us](https://hackmd.io/@benjaminion/bls12-381)  
+[A quick summary of blake2, a cryptographic hash function](https://gist.github.com/SooryaN/8d1b2c19bf0b971c11366b0680908d4b)  
+[BLAKE2 — fast secure hashing](https://blake2.net/)  
+[Go Public and Symmetric Key? The Best of Both Worlds: ECIES](https://medium.com/asecuritysite-when-bob-met-alice/go-public-and-symmetric-key-the-best-of-both-worlds-ecies-180f71eebf59)   
+[ECIES Hybrid Encryption Scheme](https://cryptobook.nakov.com/asymmetric-key-ciphers/ecies-public-key-encryption)   
 
 #### Videos/Leactures: 
-[Cryptography on the Blockchain](https://www.youtube.com/watch?v=tIYj4_fmmfs)
-[Heidi Howard - Distributed Consensus: Making Impossible Possible](https://www.youtube.com/watch?v=gYkueS5sKqo)
-[Paxos Agreement - Computerphile](https://www.youtube.com/watch?v=s8JqcZtvnsM)
-[Proof of Stake Vitalik Buterin Technion Cyber and Computer Security Summer School](https://www.youtube.com/watch?v=NRwA-uHkQlU)
+[Cryptography on the Blockchain](https://www.youtube.com/watch?v=tIYj4_fmmfs)   
+[Heidi Howard - Distributed Consensus: Making Impossible Possible](https://www.youtube.com/watch?v=gYkueS5sKqo)   
+[Paxos Agreement - Computerphile](https://www.youtube.com/watch?v=s8JqcZtvnsM)   
+[Proof of Stake Vitalik Buterin Technion Cyber and Computer Security Summer School](https://www.youtube.com/watch?v=NRwA-uHkQlU)   
 
 ### Assignments:
 -Build a POC of Proof-of-Work that can mine your name too :)
