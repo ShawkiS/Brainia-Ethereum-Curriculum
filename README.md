@@ -1,5 +1,3 @@
-
-
 # Brainia Ethereum Curriculum
 Version: 0.1  
 Starting Date: 1/9/2020  
@@ -181,6 +179,11 @@ The user story is similar to any commonly used supply chain process. A Seller ca
  - Understand Permissioned Blockchain Systems
  - Explore the different Blockchain use-cases
 
+#### Sessions:   
+Solid Introduction to Ethereum by [Hudson Jameson](https://www.linkedin.com/in/hudsonjameson/) (Ethereum Core Developer)   
+
+The Future of Enterprise Blockchain by Yorke E. Rhodes III
+
 # Part 2 -Ethereum Protocol Engineering and Design:
 
 ## #1 Week:
@@ -191,6 +194,27 @@ The user story is similar to any commonly used supply chain process. A Seller ca
  - Explore other Consensus options and build a POC of POW 
  - Understand how a wallet works and build a simple one
 
+#### Readings:
+[Ethereum Cryptography](https://www.oreilly.com/library/view/mastering-ethereum/9781491971932/ch04.html)
+[The Byzantine Generals Problem](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/The-Byzantine-Generals-Problem.pdf) 
+[Practical Byzantine Fault Tolerance](http://pmg.csail.mit.edu/papers/osdi99.pdf)
+[Flexible Byzantine Fault Tolerance](https://arxiv.org/pdf/1904.10067.pdf)
+[Stellar Consensus Protocol](https://www.stellar.org/papers/stellar-consensus-protocol)
+[BLS12-381 For The Rest Of Us](https://hackmd.io/@benjaminion/bls12-381)
+[A quick summary of blake2, a cryptographic hash function](https://gist.github.com/SooryaN/8d1b2c19bf0b971c11366b0680908d4b)
+[BLAKE2 — fast secure hashing](https://blake2.net/)
+[Go Public and Symmetric Key? The Best of Both Worlds: ECIES](https://medium.com/asecuritysite-when-bob-met-alice/go-public-and-symmetric-key-the-best-of-both-worlds-ecies-180f71eebf59)
+[ECIES Hybrid Encryption Scheme](https://cryptobook.nakov.com/asymmetric-key-ciphers/ecies-public-key-encryption)
+
+#### Videos/Leactures: 
+[Cryptography on the Blockchain](https://www.youtube.com/watch?v=tIYj4_fmmfs)
+[Heidi Howard - Distributed Consensus: Making Impossible Possible](https://www.youtube.com/watch?v=gYkueS5sKqo)
+[Paxos Agreement - Computerphile](https://www.youtube.com/watch?v=s8JqcZtvnsM)
+[Proof of Stake Vitalik Buterin Technion Cyber and Computer Security Summer School](https://www.youtube.com/watch?v=NRwA-uHkQlU)
+
+### Assignments:
+-Build a POC of Proof-of-Work that can mine your name too :)
+-Use the funcitons that you built during the week to builda an Ethereum Wallet.
 ## #2 Week:
 #### Objectives: 
  - Networking and Messaging 101
