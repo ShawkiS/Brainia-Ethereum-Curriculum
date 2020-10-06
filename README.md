@@ -8,7 +8,7 @@ Curriculum-Designer and main instructor: Shawki Sukkar.
 Partners: The Blockchain Acceleration Foundation and ConsenSys Academy.  
 Mentors:   
 Sponsors:  
-Visiting Instructors: Robert Greenfield, Yorke E. Rhodes, Alex Gladstein, Kevin Owocki, Julien Bouteloup, Gregory Markou, Dev Pramoth, Omri Ross, Steven Waterhouse, Abdelhamid Bakhta  
+Visiting Instructors: Yorke E. Rhodes, Alex Gladstein, Kevin Owocki, Julien Bouteloup, Gregory Markou, Dev Pramoth, Abdelhamid Bakhta  
 Students Number: 10   
 
 What is Brainia ([DMZ](http://dmz.ryerson.ca/) Startup building a new framework for online learning) Ethereum Full-Stack Engineer Course?   
@@ -218,10 +218,25 @@ The Future of Enterprise Blockchain by Yorke E. Rhodes III
 -Build a POC of Proof-of-Work that can mine your name too :)  
 -Use the funcitons that you built during the week to builda an Ethereum Wallet.  
 ## #2 Week:
+
 #### Objectives: 
  - Networking and Messaging 101
  - Build a POC of P2P network sending Ethereum Transactions with a RPC
+#### Readings:  
+[Peer to Peer -Go Ethereum](https://github.com/ethereum/go-ethereum/wiki/Peer-to-Peer)  
+[The RLPx Transport Protocol](https://github.com/ethereum/devp2p/blob/master/rlpx.md)  
+[The Status Network](https://status.im/whitepaper.pdf)  
+[Bloom filter](https://en.wikipedia.org/wiki/Bloom_filter)  
 
+#### Videos/Leactures:   
+[Introduction to networking protocols between Ethereum nodes](https://www.youtube.com/watch?v=Bwtjvmjtyjg)  
+[Peer-to-Peer Networking on Ethereum](https://www.youtube.com/watch?v=RA7wPpyUGJw)  
+[Multi Protocol Peer Network Framework: Vision and Roadmap](https://www.youtube.com/watch?v=FqWOeJJmNQc)  
+[Decentralized Chat](https://www.youtube.com/watch?v=vVsIHCTGjsE)  
+[Status – Ethereum at the edges of the Network](https://www.youtube.com/watch?v=aCg6kR75mkM)  
+### Assignments:  
+-Build a messaging layer for your previous transactions code to be able to send it to other nodes and a the   ability for other nodes to query a specfic transaction from your node.  
+-Build a small p2p messaging app that runs on top of Ethereum.
 ## #3 Week:
 #### Objectives: 
  - Smart Contracts and VM in depth
